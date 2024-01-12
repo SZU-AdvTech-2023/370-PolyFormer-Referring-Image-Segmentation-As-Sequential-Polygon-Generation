@@ -1,0 +1,7 @@
+@inproceedings{REPO370,
+    author = "Liu, Jiang and Ding, Hui and Cai, Zhaowei and Zhang, Yuting and Satzoda, Ravi Kumar and Mahadevan, Vijay and Manmatha, R",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "18653--18663",
+    title = "{PolyFormer: Referring Image Segmentation As Sequential Polygon Generation}",
+    year = "2023"
+}
